@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Coworking",
+    "slug": "cowork-develop-app",
+    "icon": "./src/assets/Logos/Logo_blanco_iccono1.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.cowork.qvision"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "21c129f7-30ec-46da-aafb-f65a8a33ba6a"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/21c129f7-30ec-46da-aafb-f65a8a33ba6a"
+    },
+    "ios": {}
+  },
+  "name": "cowork-develop-app",
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  },
+  "android": {
+    "package": "com.cowork.qvision",
+    "versionCode": 1
+  },
+  "ios": {
+    "supportsTable": true
+  }
+}
